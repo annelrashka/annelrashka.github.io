@@ -167,12 +167,16 @@ footer {
 
 @media screen and (max-width:749px){
   h1 {
-    font-size: 75px;
+    font-size: 60px;
     line-height: 0.9;
     margin-bottom: 20px;
+    text-align: center;
   }
   h2 {
     line-height: 1;
+  }
+  .self-desc{
+  text-align: center;
   }
   .contact-list a {
     padding: 5px;
